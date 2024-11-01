@@ -5,9 +5,41 @@
 
 # Hosts Entretenimiento
 0.0.0.0 steampowered.com
+0.0.0.0 steamcommunity.com
 0.0.0.0 playvalorant.com
 0.0.0.0 abya.com
 0.0.0.0 playstation.com
 0.0.0.0 pcgamer.com
 0.0.0.0 nintendo.com
+0.0.0.0 sega.com
+
+# Bloqueo servidores de Nintendo
+0.0.0.0 cdn.nintendo.net
+0.0.0.0 eshop.nintendo.net
+0.0.0.0 api-lp1.pctl.srv.nintendo.net
+0.0.0.0 ndas.srv.nintendo.net
+
+# Bloqueo servidores de Sony
+0.0.0.0 playstation.net
+0.0.0.0 ps.com
+0.0.0.0 nic.playstation
+0.0.0.0 api.np.km.playstation.net
+0.0.0.0 community.playstation.net
+0.0.0.0 dl.playstation.net
+0.0.0.0 update.playstation.net
+0.0.0.0 np.community.playstation.net
+
+# Bloqueo servidores steam deck
+0.0.0.0 steamdeck.com
+0.0.0.0 help.steampowered.com
+0.0.0.0 store.steampowered.com
+0.0.0.0 protondb.com
+0.0.0.0 api.steampowered.com
+
+# Bloqueo servidores xbox
+0.0.0.0 xbox.com
+0.0.0.0 account.xbox.com
+0.0.0.0 halo.xbox.com
+0.0.0.0 insider.xbox.com
+0.0.0.0 support.xbox.com
 
