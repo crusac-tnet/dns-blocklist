@@ -12,6 +12,16 @@
 0.0.0.0 pcgamer.com
 0.0.0.0 nintendo.com
 0.0.0.0 sega.com
+0.0.0.0 cuevana.com
+0.0.0.0 cuevana3.com
+0.0.0.0 cuevana3.fan
+0.0.0.0 cuevana3.cc
+0.0.0.0 cuevana3.plus
+0.0.0.0 primevideo.com
+0.0.0.0 cuevana.*
+0.0.0.0 cuenvana3.*
+0.0.0.0 spotify.*
+
 
 # Bloqueo servidores de Nintendo
 0.0.0.0 cdn.nintendo.net
@@ -29,7 +39,7 @@
 0.0.0.0 update.playstation.net
 0.0.0.0 np.community.playstation.net
 
-# Bloqueo servidores steam deck
+# Bloqueo servidores Steam deck
 0.0.0.0 steamdeck.com
 0.0.0.0 help.steampowered.com
 0.0.0.0 store.steampowered.com
@@ -43,3 +53,25 @@
 0.0.0.0 insider.xbox.com
 0.0.0.0 support.xbox.com
 
+# Bloqueo juegos on-line
+0.0.0.0 betwinner.com
+0.0.0.0 betway.com
+0.0.0.0 bet.com
+0.0.0.0 bet.ar
+0.0.0.0 bet.*
+
+# Bloqueo redes sociales
+0.0.0.0 x.com
+0.0.0.0 x.*
+0.0.0.0 whatsapp.*
+0.0.0.0 facebook.*
+0.0.0.0 twitter.*
+0.0.0.0 messenger.*
+0.0.0.0 tinder.*
+0.0.0.0 badoo.*
+0.0.0.0 happn.*
+0.0.0.0 zonacitas.*
+0.0.0.0 secondlive.*
+0.0.0.0 secondlove.*
+0.0.0.0 ourlove.*
+0.0.0.0 victoriamilan.*
