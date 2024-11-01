@@ -1,0 +1,13 @@
+# Lista de bloqueo DNS para pi-hole
+
+# Hosts VPN
+0.0.0.0 fakeip.org
+
+# Hosts Entretenimiento
+0.0.0.0 steampowered.com
+0.0.0.0 playvalorant.com
+0.0.0.0 abya.com
+0.0.0.0 playstation.com
+0.0.0.0 pcgamer.com
+0.0.0.0 nintendo.com
+
