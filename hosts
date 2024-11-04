@@ -18,9 +18,9 @@
 0.0.0.0 cuevana3.cc
 0.0.0.0 cuevana3.plus
 0.0.0.0 primevideo.com
-0.0.0.0 cuevana.*
-0.0.0.0 cuenvana3.*
-0.0.0.0 spotify.*
+0.0.0.0 cuevana.com
+0.0.0.0 cuenvana3.com
+0.0.0.0 spotify.com
 
 
 # Bloqueo servidores de Nintendo
@@ -58,20 +58,20 @@
 0.0.0.0 betway.com
 0.0.0.0 bet.com
 0.0.0.0 bet.ar
-0.0.0.0 bet.*
+0.0.0.0 bet.com
 
 # Bloqueo redes sociales
 0.0.0.0 x.com
-0.0.0.0 x.*
-0.0.0.0 whatsapp.*
-0.0.0.0 facebook.*
-0.0.0.0 twitter.*
-0.0.0.0 messenger.*
-0.0.0.0 tinder.*
-0.0.0.0 badoo.*
-0.0.0.0 happn.*
-0.0.0.0 zonacitas.*
-0.0.0.0 secondlive.*
-0.0.0.0 secondlove.*
-0.0.0.0 ourlove.*
-0.0.0.0 victoriamilan.*
+0.0.0.0 x.com
+0.0.0.0 whatsapp.com
+0.0.0.0 facebook.com
+0.0.0.0 twitter.com
+0.0.0.0 messenger.com
+0.0.0.0 tinder.com
+0.0.0.0 badoo.com
+0.0.0.0 happn.com
+0.0.0.0 zonacitas.com
+0.0.0.0 secondlive.com
+0.0.0.0 secondlove.com
+0.0.0.0 ourlove.com
+0.0.0.0 victoriamilan.com
