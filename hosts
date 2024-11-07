@@ -62,7 +62,8 @@
 
 # Bloqueo redes sociales
 0.0.0.0 x.com
-0.0.0.0 x.com
+0.0.0.0 twitter.com
+0.0.0.0 t.co
 0.0.0.0 whatsapp.com
 0.0.0.0 facebook.com
 0.0.0.0 twitter.com
